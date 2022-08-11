@@ -60,9 +60,9 @@ Coming to another stage of our course, I was asked to deliver a simple project m
 
 ---
 
-## ![](./icons/arquivos-de-imagem%20(1).png) Project Demo Gift
+## ![](./arquivos-de-imagem.png) Project Demo Gift
 
 <br>
 
-![gift](/assets/Green_Bank_version2.0.gif)
+![gift](./20220811_163957.gif)
 
