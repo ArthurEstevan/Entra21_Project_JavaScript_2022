@@ -1,4 +1,4 @@
-# Entra![](./entra21numero.png) JavaScript Contents ![](./javascript.png) 
+# Entra![](/icons/entra21numero.png) JavaScript Contents ![](/icons/javascript.png) 
 
 ## _Repository with several subjects in JavaScript_
 
@@ -11,7 +11,7 @@
 ![Gif Entra21](https://raw.githubusercontent.com/seiler-emerson/Entra21_Logica_Java_2022/main/gif/entra21.gif)
 
 
-## ![](./instrucoes.png) Instructions for Execute the Project 
+## ![](/icons/instrucoes.png) Instructions for Execute the Project 
 
 1. Make a project copy to your machine: 
     - [Git Clone](https://github.com/ArthurEstevan/Projeto_Entra21_JavaScript_JQuery_API) ⇽ Clone this repository on your computer
@@ -24,7 +24,7 @@
     
 ---
 
-## ![](./icon_conceito.png) About the Project
+## ![](/icons/icon_conceito.png) About the Project
 
 Coming to another stage of our course, I was asked to deliver a simple project made in HTML, using knowledge such as JavaScript, JQuery and API. I created a mini site where you can browse through these three subjects and learn more about them. Exercises proposed in the classroom were also carried out within the topics. Thus structuring a complete site with informative content and exercises for practice.
 
@@ -32,7 +32,7 @@ Coming to another stage of our course, I was asked to deliver a simple project m
 
 ---
 
-## ![](./icons/configuracoes.png) Technologies Used
+## ![](/icons/icons/configuracoes.png) Technologies Used
 
 - IDE - Integrated development environment 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-black?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
@@ -60,9 +60,9 @@ Coming to another stage of our course, I was asked to deliver a simple project m
 
 ---
 
-## ![](./arquivos-de-imagem.png) Project Demo Gift
+## ![](/icons/arquivos-de-imagem.png) Project Demo Gift
 
 <br>
 
-![gift](./20220811_163957.gif)
+![gift](/assets/gift_do_projeto.gif)
 
