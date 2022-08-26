@@ -34,26 +34,23 @@ Coming to another stage of our course, I was asked to deliver a simple project m
 
 ## ![](/icons/icons/configuracoes.png) Technologies Used
 
-- IDE - Integrated development environment 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-black?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+- ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-black?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp; IDE - Integrated development environment
 
-- Frontend - Front-end Web Development 
-![Html](https://img.shields.io/badge/Html-black?style=for-the-badge&logo=html5&logoColor=#E34F26) 
 
-- Framework - Software Genre
-![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=#7952B3) 
 
-- Markdown language - Text Formatting 
-![Markdown](https://img.shields.io/badge/Markdown-black?style=for-the-badge&logo=markdown&logoColor=#000000)
+- ![Html](https://img.shields.io/badge/Html-black?style=for-the-badge&logo=html5&logoColor=#E34F26)&nbsp; Frontend - Front-end Web Development 
 
-- Documentation - File Documentation
-![Documentation](https://img.shields.io/badge/Documentation-black?style=for-the-badge&logo=academia&logoColor=#41454A)
+- ![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=#7952B3)&nbsp; Framework - Software Genre
 
-- Versioning - Versioning from GitHub
-![Versioning](https://img.shields.io/badge/Versioning-black?style=for-the-badge&logo=git&logoColor=#F05032)
+- ![JQuery](https://img.shields.io/badge/JQuery-black?style=for-the-badge&logo=jQuery&logoColor=007ACC)&nbsp; JQUERY - Application Programming Interface
 
-- JQUERY - Application Programming Interface
-![JQuery](https://img.shields.io/badge/JQuery-black?style=for-the-badge&logo=jQuery&logoColor=007ACC)
+- ![Markdown](https://img.shields.io/badge/Markdown-black?style=for-the-badge&logo=markdown&logoColor=#000000)&nbsp; Markdown language - Text Formatting 
+
+- ![Documentation](https://img.shields.io/badge/Documentation-black?style=for-the-badge&logo=academia&logoColor=#41454A)&nbsp; Documentation - File Documentation
+
+- ![Versioning](https://img.shields.io/badge/Versioning-black?style=for-the-badge&logo=git&logoColor=#F05032)&nbsp; Versioning - Versioning from GitHub
+
+
 
 
 <br>
